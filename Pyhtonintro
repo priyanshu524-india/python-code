@@ -1,0 +1,13 @@
+This is my Page
+<br/>
+
+<pre>
+<?php>
+
+print `if config`;
+
+?>
+
+</?
+
+</pre>
